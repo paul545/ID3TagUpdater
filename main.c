@@ -23,6 +23,9 @@ char* bandNames[1000];
 int threadCount = 0;
 pthread_mutex_t mutex1 = PTHREAD_MUTEX_INITIALIZER;
 
+// Usage Options:
+// Option 1. ./TagUpdater /pathToBandList.txt                       //(newline separated list of bands)
+// Option 2. ./TagUpdater read /Directory/Containing/MP3Files/     //(('read' is argument for program)
 int main(int argc, char** argv){
 		
 	
