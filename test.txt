@@ -1,0 +1,360 @@
+HTTP/1.1 404 Not Found
+Date: Tue, 08 May 2018 15:24:44 GMT
+Server: Apache/2.2.27 (Unix) mod_ssl/2.2.27 OpenSSL/0.9.8e-fips-rheGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+l5 mod_bwlimited/1.4 mod_fcgid/2.3.9
+X-Powered-By: PHP/5.4.45
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store,GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+ no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=f2083a5ed779739a704ed963f02e655f;GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+ path=/
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="httpGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+://www.w3.org/1999/xhtml">
+	<head>
+		<title>Error 404 - band not found - Encyclopaedia Metallum: The Metal Archives</title>
+	GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+							<link rel="stylesheet" type="text/css" href="/minGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+/index.php?g=css" />
+				
+					<script type="text/javascript" src="/min/index.php?g=js"></script>
+				<script type="text/javaGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+script">
+			var URL_SITE	= 'https://www.metal-archives.com/';
+			var URL_IMAGES	= 'https://www.metal-archives.com/images/';
+	GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+		var URL_CSS		= 'https://www.metal-archives.com/css/';
+			$(document).ready(function() {
+				toggleFixedPositioning(1280, 600GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+);
+				executeOnAllPages();
+				
+											});
+
+
+		</script>
+		<noscript>
+			<style type="text/css">
+				.no-js { dispGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+lay: block !important; }
+			</style>
+		</noscript>
+		
+		<!--[if lt IE 8]>
+			<script src="http://ie7-js.googlecode.com/svn/GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+version/2.1(beta4)/IE8.js"></script>
+			 <link rel="stylesheet" type="text/css" href="https://www.metal-archives.com/css/defaulGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+t/oldie.css" />
+		<![endif]-->		
+
+		<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccounGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+t', 'UA-4046749-4']);
+			  _gaq.push(['_trackPageview']);
+
+			  (function() {
+			    var ga = document.createElement('scriptGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'htGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+tp://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBeforGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+e(ga, s);
+			  })();
+		</script>
+	</head>
+	<body >
+		<div id="wrapper">
+	        <div id="header">
+	            <a href="GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+https://www.metal-archives.com/" id="MA_logo">Metal Archives</a>
+				<div class="clear loading"><img src="https://www.metal-arcGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+hives.com/images/loading.gif" alt="loading" width="12" height="12" /> loading...</div>
+	            <div id="search_box">
+		  GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+          <form id="search_form" action="https://www.metal-archives.com/search" method="get">
+						<div>
+							<label>SearchGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+:</label><br/>
+							<input name="searchString" type="text" id="searchQueryBox" size="25" value="" tabindex="1" />
+							<seGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+lect name="type" tabindex="2">
+								<option value="band_name">Band name</option>
+								<option value="band_genre">Music gGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+enre</option>
+								<option value="band_themes">Lyrical themes</option>
+								<option value="album_title">Album title</optGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+ion>
+								<option value="song_title">Song title</option>
+								<option value="label_name">Label</option>
+								<optionGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+ value="artist_alias">Artist</option>
+								<option value="user_name">User profile</option>
+								<option value="google">GGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+oogle</option>
+							</select>
+							<br/>
+							<a href="https://www.metal-archives.com/search/advanced/?searchString=&tyGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+pe=" class="float_left" tabindex="4">Advanced search</a>
+							<button type="submit" class="btn_submit float_right" tabindex="GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+3">Submit</button>
+						</div>
+		            </form>
+		        </div>
+	            
+	            <div id="top_menu_box">
+GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+	                <ul class="menu_style_1">
+	                    <li><a href="https://www.metal-archives.com/content/help">Help<GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+/a></li>
+						<li><a href="https://www.metal-archives.com/content/rules">Rules</a></li>
+						<li><a href="https://www.metal-GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+archives.com/board/" target="_top">Forum</a></li>
+	                </ul>
+	                <ul class="menu_style_2">
+						<liGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+><a href="https://www.metal-archives.com/content/faq">FAQ</a></li>
+												<li><a href="https://www.metal-archives.com/contGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+ent/support">Support Us</a></li>
+	                    <li><a href="https://www.metal-archives.com/content/tools">Add-ons</a></lGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+i>
+	              </ul>
+	            </div>        
+	        </div>
+	        <div id="left_col">
+	            <div id="membGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+er_box">
+	            		            				                <form name="login_form" id="login_form" action="https://www.metal-archiGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+ves.com/authentication/login" method="post">
+							<div>
+								<label>Username</label><br/>
+								<input type="text" namGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+e="loginUsername" size="20" />
+								<label>Password</label><br/>
+								<input type="password" name="loginPassword" size="GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+20" />
+								<input type="hidden" name="origin" value="/bands/Lykathea" />
+								<button type="submit" class="btn_login flGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+oat_right">Login</button>
+							</div>
+		                </form>
+		                <a href="https://www.metal-archives.com/uGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+ser/signup" class="float-left writeAction">Register</a>  
+		                <span class="float_right"><a href="https://www.metaGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+l-archives.com/user/forgot-password" class="float-left writeAction">Forgot login?</a>  </span>
+						<div class="clear"> </div>GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+
+		            	            </div>
+	            <div id="left_menu_box">
+	            		                <ul class="menu_styleGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+_3 block_spacer_20">
+	                	<li>
+	                		Bands 
+	                		<ul>
+			                    <li><a GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+href="https://www.metal-archives.com/browse/letter">alphabetical</a></li>
+			                    <li><a href="https://www.metalGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+-archives.com/browse/country">country</a></li>
+			                    <li><a href="https://www.metal-archives.com/browse/genre"GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+>genre</a></li>
+	                    	</ul>
+	                    </li>
+	                    <li>
+	                    	LabelGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+s
+	                    	<ul>
+			                    <li><a href="https://www.metal-archives.com/label">alphabetical</a></li>
+GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+			                    <li><a href="https://www.metal-archives.com/label/country">country</a></li>
+	                    	</ul>GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+
+	                    </li>
+	                    <li><a href="https://www.metal-archives.com/review/browse">Reviews</a></li>
+	GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+                </ul>
+	                <ul class="menu_style_3 block_spacer_20">
+	                    <li><a href="https://wwwGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+.metal-archives.com/artist/rip">R.I.P.</a></li>
+	                    <li><a href="https://www.metal-archives.com/band/random">RGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+andom Band</a></li>
+	                    <li><a href="https://www.metal-archives.com/user/list">User rankings</a></li>
+	      GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+          	<li><a href="https://www.metal-archives.com/news">News archive</a></li>
+					</ul>
+					 <ul class="menu_style_3 orGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+nement_30">
+	                    <li><a href="https://www.metal-archives.com/report/list">Reports</a></li>
+	                  GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+  <li><a href="https://www.metal-archives.com/todo">Contribute / To do</a></li>
+	                </ul>
+	            </div>
+	 GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+           <div id="left_text_box">
+	           		<p class="small_text center"> &copy; 2002-2018<br/>Encyclopaedia Metallum </pGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+>
+					<p class="small_text center">Best viewed<br /> <a href="http://www.getfirefox.com" target="_blank">without</a> Internet GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+Explorer, <br/>in 1280 x 960 resolution<br/> or higher.</p> 
+	            </div>       
+	        </div>
+	        <div id="conGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+tent_wrapper">
+				<h3>Error 404</h3>
+<h4>Band not found</h4>
+
+
+	
+	<p>
+		We are sorry, the band <strong>Lykathea</strong> you wGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+ere looking for could not be found. Perhaps the entry has been deleted, or is still pending moderation approval.
+	</p>
+
+<p>
+	If GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+you followed a link from an external site, it was most likely out of date. 
+	If you followed a link from within the site and belGET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+ieve this is an error, please report the dead URL below immediately.
+	(Make sure to tell us where you clicked to end up on this GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+page.)
+</p>
+	
+<strong>https://www.metal-archives.com/bands/Lykathea</strong>
+
+<p>Thank you for your comprehension.</p>
+
+	      GET /bands/Lykathea Aflame HTTP/1.0
+Host: www.metal-archives.com
+
+  </div>
+	    </div>
+	</body>
+</html>
